@@ -1,49 +1,52 @@
-# 👋 Olá! Eu sou o Robert Souza Lages
+# 👋 E aí! Eu sou o Robert Souza Lages
 
-🎯 Desenvolvedor Python | Estudante de Desenvolvimento de Sistemas  
-📍 Pelotas-RS, Brasil  
-☕ Apaixonado por tecnologia, café e Tolkien
+🎯 Desenvolvedor Python em formação  
+📍 Direto de Pelotas-RS, Brasil  
+☕ Viciado em café, código e Tolkien (não necessariamente nessa ordem)
 
 ---
 
 ## 🚀 Sobre mim
 
-Meu primeiro contato com programação foi por meio do C# no Unity3D, e desde então mergulhei no mundo da tecnologia. Aprendi C e C++, mas foi com Python que encontrei minha principal linguagem — versátil, poderosa e muito requisitada no mercado. Atualmente, estou cursando Técnico em Desenvolvimento de Sistemas e pretendo fazer Ciência da Computação no futuro, para me tornar um profissional completo e multidisciplinar.
+Tudo começou com uns cliques no Unity3D e umas linhas de C#. Achei que ia fazer jogos épicos... acabei descobrindo que programar é ainda mais viciante que zerar RPGs. Depois vieram C e C++, mas foi com Python que rolou o match perfeito: simples, poderosa e cheia de possibilidades.
+
+Hoje tô cursando Técnico em Desenvolvimento de Sistemas e já tô de olho na Ciência da Computação — porque ser dev completo é tipo desbloquear o modo hard da vida, e eu tô dentro!
 
 ---
 
-## 💼 O que eu faço
+## 💼 O que eu ando aprontando
 
-- 🐍 Desenvolvimento em Python (scripts, automações, web scraping, APIs)
-- 🌐 Estudo de tecnologias web (HTML, CSS, JavaScript, frameworks)
-- 🔐 Interesse em segurança da informação e engenharia reversa
-- 🎮 Projetos experimentais com jogos e multimídia
+- 🐍 Python na veia: automações, scripts, APIs e uns experimentos malucos
+- 🌐 Web dev em progresso: HTML, CSS, JS e uns frameworks que ainda tô domando
+- 🔐 Curioso por segurança da informação e engenharia reversa
+- 🎮 Brincando com jogos e multimídia quando sobra tempo (ou quando o café bate forte)
 
 ---
 
-## 📌 Repositórios em Destaque
+## 📦 Repositórios em Destaque
 
 | Projeto | Descrição |
 |--------|-----------|
-| `Ngrok_backdoor_auto_update_with_persistence` | Backdoor em C++ com modo de persistência para Ngrok |
-| `YouTubePly` | Player simples de YouTube em Python, sem anúncios |
+| `Ngrok_backdoor_auto_update_with_persistence` | Backdoor em C++ com persistência ninja |
+| `YouTubePly` | Player de YouTube em Python, sem anúncios e sem enrolação |
 
 ---
 
-## 📚 Hobbies & Interesses
+## 📚 Hobbies & Vibes
 
-- 🎮 Jogar e explorar novos games
-- 📖 Ler (especialmente J.R.R. Tolkien)
-- 🎥 Assistir vídeos sobre tecnologia e cultura geek
-- ☕ Tomar café enquanto codifico
+- 🎮 Jogar (óbvio)
+- 📖 Ler Tolkien e imaginar que sou da Terra Média
+- 🎥 Maratonar vídeos de tech, cultura geek e coisas aleatórias
+- ☕ Tomar café como se fosse XP líquido
 
 ---
 
-## 📫 Conecte-se comigo
+## 📫 Bora conectar?
 
 - GitHub: [zahanzo](https://github.com/zahanzo)
 - LinkedIn: [in/0xrobert](https://www.linkedin.com/in/0xrobert)
 
 ---
 
-> “Não é a força, mas a perseverança que realiza grandes coisas.” — Samuel Johnson
+> “Não é a força, mas a perseverança que realiza grandes coisas.” — Samuel Johnson  
+> (E um pouco de café também ajuda 😄)
