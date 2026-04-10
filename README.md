@@ -1,52 +1,48 @@
 # 👋 E aí! Eu sou o Robert Souza Lages
 
-🎯 Desenvolvedor Python em formação  
-📍 Direto de Pelotas-RS, Brasil  
-☕ Viciado em café, código e Tolkien (não necessariamente nessa ordem)
+🎯 **Desenvolvedor Python & Entusiasta de Baixo Nível** 📍 Pelotas-RS, Brasil  
+🎓 Técnico em Análise e Desenvolvimento de Sistemas 
+☕ Movido a café, lógica e o universo de Tolkien.
 
 ---
 
 ## 🚀 Sobre mim
 
-Tudo começou com uns cliques no Unity3D e umas linhas de C#. Achei que ia fazer jogos épicos... acabei descobrindo que programar é ainda mais viciante que zerar RPGs. Depois vieram C e C++, mas foi com Python que rolou o match perfeito: simples, poderosa e cheia de possibilidades.
+Minha jornada começou com C# no Unity3D, mas foi a curiosidade de "abrir a tampa" dos softwares que me levou ao **C, C++ e à Engenharia Reversa**. Hoje, meu foco principal é o **Python**, onde encontrei o equilíbrio perfeito entre simplicidade e poder para construir sistemas inteligentes.
 
-Hoje tô cursando Técnico em Desenvolvimento de Sistemas e já tô de olho na Ciência da Computação — porque ser dev completo é tipo desbloquear o modo hard da vida, e eu tô dentro!
+Atualmente, trabalho na transição para me tornar um desenvolvedor completo, aplicando conceitos de **Sistemas de Informação** e **IA Modular** em projetos práticos do dia a dia.
 
 ---
 
-## 💼 O que eu ando aprontando
+## 🛠️ No que estou focado agora
 
-- 🐍 Python na veia: automações, scripts, APIs e uns experimentos malucos
-- 🌐 Web dev em progresso: HTML, CSS, JS e uns frameworks que ainda tô domando
-- 🔐 Curioso por segurança da informação e engenharia reversa
-- 🎮 Brincando com jogos e multimídia quando sobra tempo (ou quando o café bate forte)
+* 🤖 **L.I.A. (Local Intelligent Assistant):** Desenvolvendo um framework de IA modular e multimodal (codinome **Maya**) que utiliza o protocolo **MCP** para automação local.
+* 🔐 **Engenharia Reversa & Modding:** Explorando o funcionamento interno de binários e automação de baixo nível.
+* ⚡ **Performance:** Otimizando scripts Python para execução em tempo real com baixa latência.
 
 ---
 
 ## 📦 Repositórios em Destaque
 
-| Projeto | Descrição |
-|--------|-----------|
-| `Ngrok_backdoor_auto_update_with_persistence` | Backdoor em C++ com persistência ninja |
-| `YouTubePly` | Player de YouTube em Python, sem anúncios e sem enrolação |
+| Projeto | Tecnologia | Descrição |
+| :--- | :--- | :--- |
+| [**L.I.A. Framework**](https://github.com/zahanzo/lia-framework) | Python / MCP | Assistente pessoal com memória semântica, visão de tela e plugins dinâmicos. |
 
 ---
 
 ## 📚 Hobbies & Vibes
 
-- 🎮 Jogar (óbvio)
-- 📖 Ler Tolkien e imaginar que sou da Terra Média
-- 🎥 Maratonar vídeos de tech, cultura geek e coisas aleatórias
-- ☕ Tomar café como se fosse XP líquido
+* 🔧 **Mecânica:** Realizando a manutenção da minha **Honda CG 150 Fan** (porque hardware físico também precisa de "debug").
+* 📖 **Tolkien:** Sempre pronto para discutir o lore da Terra Média.
+* 🎮 **Gaming:** RPGs e simuladores quando o café permite um tempo de folga.
 
 ---
 
 ## 📫 Bora conectar?
 
-- GitHub: [zahanzo](https://github.com/zahanzo)
-- LinkedIn: [in/0xrobert](https://www.linkedin.com/in/0xrobert)
+* **GitHub:** [zahanzo](https://github.com/zahanzo)
+* **LinkedIn:** [in/0xrobert](https://www.linkedin.com/in/0xrobert)
 
 ---
 
-> “Não é a força, mas a perseverança que realiza grandes coisas.” — Samuel Johnson  
-> (E um pouco de café também ajuda 😄)
+> “Não é a força, mas a perseverança que realiza grandes coisas.” — Samuel Johnson
