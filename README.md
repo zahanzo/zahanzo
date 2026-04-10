@@ -12,11 +12,12 @@ Minha jornada começou com C# no Unity3D, mas foi a curiosidade de "abrir a tamp
 
 Atualmente, trabalho na transição para me tornar um desenvolvedor completo, aplicando conceitos de **Sistemas de Informação** e **IA Modular** em projetos práticos do dia a dia.
 
+Meu projeto mais ambicioso: um framework multimodal local-first para criar assistentes inteligentes e até VTubers engraçadas.
 ---
 
 ## 🛠️ No que estou focado agora
 
-* 🤖 **L.I.A. (Local Intelligent Assistant):** Desenvolvendo um framework de IA modular e multimodal (codinome **Maya**) que utiliza o protocolo **MCP** para automação local.
+* 🤖 **L.I.A. (Local Intelligent Assistant):** Desenvolvendo um framework de IA modular e multimodal que utiliza o protocolo **MCP** para automação local.
 * 🔐 **Engenharia Reversa & Modding:** Explorando o funcionamento interno de binários e automação de baixo nível.
 * ⚡ **Performance:** Otimizando scripts Python para execução em tempo real com baixa latência.
 
