@@ -1,7 +1,6 @@
 # 👋 E aí! Eu sou o Robert Souza Lages
 
 🎯 **Desenvolvedor Python & Entusiasta de Baixo Nível** 📍 Pelotas-RS, Brasil  
-🎓 Técnico em Análise e Desenvolvimento de Sistemas 
 ☕ Movido a café, lógica e o universo de Tolkien.
 
 ---
@@ -12,7 +11,7 @@ Minha jornada começou com C# no Unity3D, mas foi a curiosidade de "abrir a tamp
 
 Atualmente, trabalho na transição para me tornar um desenvolvedor completo, aplicando conceitos de **Sistemas de Informação** e **IA Modular** em projetos práticos do dia a dia.
 
-Meu projeto mais ambicioso: um framework multimodal local-first para criar assistentes inteligentes e até VTubers engraçadas.
+Meu projeto mais ambicioso: um framework multimodal local-first para criar desde assistentes inteligentes até VTubers engraçadas.
 ---
 
 ## 🛠️ No que estou focado agora
@@ -35,7 +34,7 @@ Meu projeto mais ambicioso: um framework multimodal local-first para criar assis
 
 * 🔧 **Mecânica:** Realizando a manutenção da minha **Honda CG 150 Fan** (porque hardware físico também precisa de "debug").
 * 📖 **Tolkien:** Sempre pronto para discutir o lore da Terra Média.
-* 🎮 **Gaming:** RPGs e simuladores quando o café permite um tempo de folga.
+* 🎮 **Gaming:** RPGs e Souls-Like quando o café permite um tempo de folga.
 
 ---
 
