@@ -46,7 +46,7 @@ My most ambitious projects right now involve writing a Ring 0 micro-kernel from 
 
 ## 📫 Let's Connect
 
-*   **GitHub:** [zahanzo](https://github.com/zahanzo)
+*   **GitHub Blog:** [zahanzo](https://zahanzo.github.io/index.html)
 *   **LinkedIn:** [in/0xrobert](https://www.linkedin.com/in/0xrobert)
 
 ---
