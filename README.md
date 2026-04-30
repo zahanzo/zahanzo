@@ -1,48 +1,54 @@
-# 👋 E aí! Eu sou o Robert Souza Lages
+# 👋 Hey! I'm Robert Souza Lages
 
-🎯 **Desenvolvedor Python & Entusiasta de Baixo Nível** 📍 Pelotas-RS, Brasil  
-☕ Movido a café, lógica e o universo de Tolkien.
-
----
-
-## 🚀 Sobre mim
-
-Minha jornada começou com C# no Unity3D, mas foi a curiosidade de "abrir a tampa" dos softwares que me levou ao **C, C++ e à Engenharia Reversa**. Hoje, meu foco principal é o **Python**, onde encontrei o equilíbrio perfeito entre simplicidade e poder para construir sistemas inteligentes.
-
-Atualmente, trabalho na transição para me tornar um desenvolvedor completo, aplicando conceitos de **Sistemas de Informação** e **IA Modular** em projetos práticos do dia a dia.
-
-Meu projeto mais ambicioso: um framework multimodal local-first para criar desde assistentes inteligentes até VTubers engraçadas.
----
-
-## 🛠️ No que estou focado agora
-
-* 🤖 **L.I.A. (Local Intelligent Assistant):** Desenvolvendo um framework de IA modular e multimodal que utiliza o protocolo **MCP** para automação local.
-* 🔐 **Engenharia Reversa & Modding:** Explorando o funcionamento interno de binários e automação de baixo nível.
-* ⚡ **Performance:** Otimizando scripts Python para execução em tempo real com baixa latência.
+🎯 **System analisis & Self-Taught Low-Level Enthusiast** 📍 Pelotas-RS, Brazil  
+☕ Fueled by coffee, logic, pink floyd on my headphone, and Tolkien's universe.
 
 ---
 
-## 📦 Repositórios em Destaque
+## 🚀 About Me
 
-| Projeto | Tecnologia | Descrição |
+My journey into software development was driven by a relentless curiosity to "pop the hood" and see how things work at the deepest level. Entirely self-taught, I've gone down the rabbit hole of **C, C++, Reverse Engineering, and Cybersecurity**, seeking the learning to interact directly with memory and the bare metal.
+
+While I leverage Python to build modular architectures and AI frameworks, my primary focus and true passion lie in **systems programming**, binary analysis, and exploring hardware architecture.
+
+I am currently pursuing a degree in **Systems Analysis and Development**, with plans to pursue a Master's degree in **Computer Science** in the future. However, my deep dive into kernel-level execution and low-level development is driven purely by my own independent studies and hands-on experimentation.
+
+My most ambitious projects right now involve writing a Ring 0 micro-kernel from scratch and building a local-first, multimodal AI framework.
+
+---
+
+## 🛠️ What I'm Working On
+
+*   ⚙️ **0x00-Kernel:** A bare-metal x86 real-mode micro-kernel built from scratch in Assembly, exploring Ring 0 privileges and hardware drivers.
+*   🔐 **Reverse Engineering & Systems Programming:** Diving deep into C/C++, binary analysis, and low-level execution for security and modding.
+*   🤖 **L.I.A. (Local Intelligent Assistant):** Developing a modular, multimodal AI framework utilizing Python and the **MCP** protocol for local automation.
+
+---
+
+## 📦 Featured Repositories
+
+| Project | Stack | Description |
 | :--- | :--- | :--- |
-| [**L.I.A. Framework**](https://github.com/zahanzo/lia-framework) | Python / MCP | Assistente pessoal com memória semântica, visão de tela e plugins dinâmicos. |
+| [**0x00-Kernel**](https://github.com/zahanzo/0x00-Kernel) | Assembly x86 | A minimalist Ring 0 micro-kernel with a custom bootloader and hardware drivers. |
+| [**Ghost Shell**](https://github.com/zahanzo/GhostShell) | C / C++ | Custom shell environment for low-level system exploration and execution. |
+| [**L.I.A. Framework**](https://github.com/zahanzo/lia-framework) | Python / MCP | Personal AI assistant with semantic memory, screen vision, and dynamic plugins. |
+| [**NativaStub Gen**](https://github.com/zahanzo/NativaStub-Gen) | C++20 / x64 | Automated Syscall stub generator that parses ntdll.dll to extract SSNs and bypass EDR hooks via Direct Syscalls. |
 
 ---
 
 ## 📚 Hobbies & Vibes
 
-* 🔧 **Mecânica:** Realizando a manutenção da minha **Honda CG 150 Fan** (porque hardware físico também precisa de "debug").
-* 📖 **Tolkien:** Sempre pronto para discutir o lore da Terra Média.
-* 🎮 **Gaming:** RPGs e Souls-Like quando o café permite um tempo de folga.
+*   🔧 **Mechanics:** Tearing down and maintaining my **Honda CG 150 Fan** engine.
+*   📖 **Tolkien:** Always ready to learn more of Middle-Earth lore.
+*   🎮 **Gaming:** RPGs and Souls-Likes, whenever the coffee permits some downtime.
 
 ---
 
-## 📫 Bora conectar?
+## 📫 Let's Connect
 
-* **GitHub:** [zahanzo](https://github.com/zahanzo)
-* **LinkedIn:** [in/0xrobert](https://www.linkedin.com/in/0xrobert)
+*   **GitHub:** [zahanzo](https://github.com/zahanzo)
+*   **LinkedIn:** [in/0xrobert](https://www.linkedin.com/in/0xrobert)
 
 ---
 
-> “Não é a força, mas a perseverança que realiza grandes coisas.” — Samuel Johnson
+> "Great works are performed not by strength but by perseverance." — Samuel Johnson
