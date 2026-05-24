@@ -51,4 +51,21 @@ My most ambitious projects right now involve writing a Ring 0 micro-kernel from 
 
 ---
 
+### 🛠️ Tech Stack
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### 📊 GitHub Stats
+<p align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zahanzo&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zahanzo&theme=radical&hide_border=true)
+  
+</p>
+---
+
 > "Great works are performed not by strength but by perseverance." — Samuel Johnson
