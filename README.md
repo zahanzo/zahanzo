@@ -62,7 +62,9 @@ My most ambitious projects right now involve writing a Ring 0 micro-kernel from 
 <p align="center">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zahanzo&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahanzo&layout=compact&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zahanzo&layout=compact&theme=tokyonight&hide=html,css)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zahanzo&theme=radical&hide_border=true)
   
 </p>
