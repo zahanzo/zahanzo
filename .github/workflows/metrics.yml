@@ -25,5 +25,6 @@ jobs:
           
           plugin_languages: yes
           plugin_languages_ignored: html, css, jupyter notebook, tex, less
+          plugin_languages_skipped: lia-framework, lia-store
           plugin_languages_details: percentage
           plugin_languages_limit: 5
