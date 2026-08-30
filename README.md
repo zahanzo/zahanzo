@@ -42,7 +42,7 @@ My most ambitious projects right now involve writing a bare-metal Ring 0 interac
 *   🔧 **Mechanics:** Tearing down and maintaining my **Honda CG 150 Fan** engine.
 *   📖 **Lore & Audiobooks:** Always ready to learn more of Middle-Earth lore or get immersed in dramatized audiobooks.
 *   🎮 **Gaming:** Co-op sessions, RPGs, and Souls-Likes, whenever the coffee permits some downtime.
-*   🎧 **Playlist:** A chaotic but perfect focus mix of classic rock and K-pop (always tuning into Red Velvet / Seungwan).
+*   🎧 **Playlist:** A chaotic but perfect focus mix of classic rock and psychedelic.
 
 ---
 
